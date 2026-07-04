@@ -1,4 +1,3 @@
-```markdown
 # 🚢 Titanic Elite ML: Advanced Predictive Modeling & Ensemble Architecture
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
@@ -139,8 +138,7 @@ Didistribusikan di bawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanj
 ## 👤 Author
 **Alvindra Agus Syahputra**  
 *Universitas Muhammadiyah Surakarta*  
-🔗 [LinkedIn](#) | 🐙 [GitHub](#) | 📧 [Email](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/alvindra-agus/) | 🐙 [GitHub](https://github.com/ridhostore/) | 📧 [Email](b400250043@student.ums.ac.id)
 
 ---
-*Built with ❤️ and rigorous statistical thinking.*
 ```#
