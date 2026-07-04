@@ -134,7 +134,7 @@ Kontribusi, *issues*, dan *pull requests* sangat dihargai. Jika Anda memiliki id
 ## 👤 Author
 **Alvindra Agus Syahputra**  
 *Universitas Muhammadiyah Surakarta*  
-🔗 [LinkedIn](https://www.linkedin.com/in/alvindra-agus/) | 🐙 [GitHub](https://github.com/ridhostore/) | 📧 [Email](b400250043@student.ums.ac.id)
+🔗 [LinkedIn](https://www.linkedin.com/in/alvindra-agus/) | 🐙 [GitHub](https://github.com/ridhostore/) | 📧 [Email](mailto:b400250043@student.ums.ac.id)
 
 ---
 ```#
