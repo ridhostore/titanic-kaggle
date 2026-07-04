@@ -61,8 +61,8 @@ Kunci dari proyek ini bukanlah kecanggihan model, melainkan kedalaman ekstraksi 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/titanic-elite-ml.git
-cd titanic-elite-ml
+git clone https://github.com/ridhostore/titanic-kaggle.git
+cd titanic-kaggle
 ```
 
 ### Step 1.5: (Optional) Bayesian Hyperparameter Tuning
