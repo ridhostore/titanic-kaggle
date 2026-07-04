@@ -130,9 +130,6 @@ Model divalidasi menggunakan **Stratified 10-Fold Cross-Validation** untuk memas
 ## 🤝 Contributing
 Kontribusi, *issues*, dan *pull requests* sangat dihargai. Jika Anda memiliki ide untuk *Feature Engineering* tambahan atau *Hyperparameter Tuning* (misalnya menggunakan Optuna), silakan buat *branch* baru dan ajukan *PR*.
 
-## 📜 License
-Didistribusikan di bawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
-
 ---
 
 ## 👤 Author
