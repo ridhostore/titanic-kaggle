@@ -1,0 +1,50 @@
+# ==========================================
+# 2. PYTHON ENVIRONMENT & CACHE
+# ==========================================
+# Mengabaikan file cache Python dan virtual environment.
+# Orang lain harus membuat venv mereka sendiri menggunakan requirements.txt.
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# ==========================================
+# 3. JUPYTER NOTEBOOK CHECKPOINTS
+# ==========================================
+# Jupyter secara otomatis membuat folder checkpoint. Ini hanya sampah versi.
+.ipynb_checkpoints/
+
+# ==========================================
+# 4. MODEL ARTIFACTS (DATA SCIENCE SPECIFIC)
+# ==========================================
+# Jika nanti Anda menyimpan model yang sudah dilatih (meski di Titanic tidak dipakai),
+# file biner ini tidak boleh masuk ke Git.
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# ==========================================
+# 5. OPTUNA & LOGS
+# ==========================================
+# Database lokal Optuna dan file log training.
+optuna-trial.db
+*.log
+
+# ==========================================
+# 6. IDE & OS FILES
+# ==========================================
+# File konfigurasi editor dan file tersembunyi dari OS.
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
