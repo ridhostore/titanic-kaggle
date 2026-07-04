@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3-orange?logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.7-green?logo=xgboost)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)
 
 > *"Data without architecture is just noise. This project transforms historical noise into predictive signal using enterprise-grade Data Science methodologies."*
